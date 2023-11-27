@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+
+# Django project settings
+*.log
+db.sqlite3
+db.sqlite3-journal
+media/
+static/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Translation files
+*.mo
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
